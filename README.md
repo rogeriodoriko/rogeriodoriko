@@ -8,8 +8,7 @@ Além disso, estou aberto a aprender novas tecnologias e frameworks para expandi
 No meu tempo livre, gosto de explorar novas tendências do mundo do desenvolvimento web, ler artigos técnicos e participar de comunidades online para compartilhar conhecimentos e aprender com outros desenvolvedores talentosos.
 
 Se você tem algum projeto em mente ou está em busca de um colaborador para uma iniciativa, adoraria contribuir! Sinta-se à vontade para entrar em contato comigo por meio dos links abaixo. Vamos construir coisas incríveis juntos!</p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriodoriko&hide_progress=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogeriodoriko&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriodoriko&hide_progress=true) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogeriodoriko&hide=contribs,prs)
 
 
 <!--
