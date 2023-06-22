@@ -1,6 +1,6 @@
 # Olá, me chamo Rogerio Fernandes! 
 ## Bem vindo ao meu perfil GitHub 👋
-<a href="https://www.linkedin.com/in/rogerio-fernandes78/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a> <a href="https://www.instagram.com/fogeriorernandes/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/rogerio-fernandes78/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a> <a href="https://www.instagram.com/rogeriodoriko/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="40" height="40"/></a>
 
 <h2>Quem Sou?</h2>
 <p>👋 Tenho 20 anos, sou de Triunfo-RS e sou apaixonado por tecnologia. Atualmente, estou no primeiro semestre do curso de Tecnologia de Sistemas para Internet no IFSUL Campus Charqueadas.
