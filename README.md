@@ -13,7 +13,7 @@ Se você tem algum projeto em mente ou está em busca de um colaborador para uma
 
 <div>
 <a href="https://github.com/rogeriodoriko">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriodoriko&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriodoriko&layout=compact&langs_count=7&theme=abyss"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeriodoriko&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <!--
