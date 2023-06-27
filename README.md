@@ -14,7 +14,7 @@ Se você tem algum projeto em mente ou está em busca de um colaborador para uma
 <h2>Ferramentas</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" padding="25px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" padding="25px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" padding="25px"/>
 </div>
-<div>
+<div> 
 <a href="https://github.com/rogeriodoriko">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriodoriko&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeriodoriko&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
