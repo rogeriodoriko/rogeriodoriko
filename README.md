@@ -1,5 +1,5 @@
 # Olá, me chamo Rogerio Fernandes! 
-## Bem vindo ao meu perfil GitHub 👋
+<h3>Bem vindo ao meu perfil GitHub 👋</h3>
 <a href="https://www.linkedin.com/in/rogerio-fernandes78/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a> <a href="https://www.instagram.com/rogeriodoriko/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="40" height="40"/></a>
 
 <h2>Quem Sou?</h2>
