@@ -1,5 +1,5 @@
 # Olá, me chamo Rogerio Fernandes! 
-<h3>Bem vindo ao meu perfil GitHub 👋</h3>
+<center><h3>Bem vindo ao meu perfil GitHub 👋</h3>
 <a href="https://www.linkedin.com/in/rogerio-fernandes78/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a> <a href="https://www.instagram.com/rogeriodoriko/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="40" height="40"/></a>
 
 <h2>Quem Sou?</h2>
@@ -20,7 +20,7 @@ Se você tem algum projeto em mente ou está em busca de um colaborador para uma
 <a href="https://github.com/rogeriodoriko">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriodoriko&layout=compact&langs_count=7&theme=dracula" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeriodoriko&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+</div></center>
 <!--
 **rogeriodoriko/rogeriodoriko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
