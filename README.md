@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/rogerio-fernandes78/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a> <a href="https://www.instagram.com/rogeriodoriko/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="40" height="40"/></a>
   
 <h2>Quem Sou?</h2>
-<p>👋 Tenho 21 anos, sou de Triunfo-RS e sou apaixonado por tecnologia. Atualmente, estou no terceiro semestre do curso de Tecnologia de Sistemas para Internet no IFSUL Campus Charqueadas.
+<p>👋 Tenho 22 anos, sou de Triunfo-RS e sou apaixonado por tecnologia. Atualmente, estou no terceiro semestre do curso de Tecnologia de Sistemas para Internet no IFSUL Campus Charqueadas.
 Como desenvolvedor front-end junior, estou focado em aprimorar minhas habilidades em HTML, CSS e JavaScript. Adoro transformar conceitos em interfaces atraentes e interativas, buscando sempre a melhor experiência para o usuário. 
 Além disso, estou aberto a aprender novas tecnologias e frameworks para expandir meu conhecimento e me tornar um desenvolvedor mais completo. Estou sempre em busca de desafios e projetos interessantes que possam ajudar a aprimorar minhas habilidades e contribuir para a comunidade de desenvolvimento.
 No meu tempo livre, gosto de explorar novas tendências do mundo do desenvolvimento web, ler artigos técnicos e participar de comunidades online para compartilhar conhecimentos e aprender com outros desenvolvedores talentosos.
